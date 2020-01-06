@@ -22,14 +22,14 @@ We can get extra freaky and tell it where to put it even give the file a pet nam
 
 **messagebus.py**
 ```python
-
+#todo: complete
 ```
 
 We are always testy in these parts so we drop some attitude any where we go. 
 
 **test_messagebus.py**
 ```python
-
+#todo: complete
 ```
 
 
@@ -41,9 +41,7 @@ Searches for a `models.py` file to add the following code
 
 
 ```python
-class User:
-    def __init__(self, id, first, last, email, username):
-
+#todo: finish
 ```
 
 
